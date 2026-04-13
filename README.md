@@ -1,5 +1,4 @@
-[7:55 AM, 4/13/2026] Jen Rosa : git push origin main
-[7:57 AM, 4/13/2026] Jen Rosa : # 📊 Pesquisa de Satisfação - TudoWeb
+# 📊 Pesquisa de Satisfação - TudoWeb
 
 Este repositório contém o desenvolvimento de um sistema de coleta de dados para pesquisas de opinião, desenvolvido como atividade prática para o curso *Técnico em Desenvolvimento de Sistemas (ETEC MLK)*.
 
